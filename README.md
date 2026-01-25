@@ -1,3 +1,3 @@
 # Mathematical Theory of Data Science
 ## SVD
-[svd](notebooks/SVD.ipynb)
+[Notebook on SVD](https://nbviewer.org/github/xuemeic/MTDS/blob/main/notebooks/SVD.ipynb)
