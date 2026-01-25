@@ -1,3 +1,5 @@
 # Mathematical Theory of Data Science
+This is the Github repository that goes with the course.
+
 ## SVD
-[Notebook on SVD](https://nbviewer.org/github/xuemeic/MTDS/blob/main/notebooks/SVD.ipynb)
+[Notebook on SVD](notebooks/SVD.ipynb)
