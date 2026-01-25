@@ -1,2 +1,1 @@
-# MTDS
-Mathematical Theory of Data Science
+# Mathematical Theory of Data Science
