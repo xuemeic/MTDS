@@ -2,4 +2,5 @@
 This is the Github repository that goes with the course.
 
 ## SVD
-[Notebook on SVD](notebooks/SVD.ipynb)
+- [Notebook on SVD](notebooks/SVD.ipynb)
+- [dimension reduction with SVD](notebooks/dim_reduction.ipynb)
