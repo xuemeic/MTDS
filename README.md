@@ -8,7 +8,7 @@ This is the Github repository that goes with the course.
 
 ## Neural Network
 - [Build a Simple NN from scratch](notebooks/NN_from_scratch.ipynb)
-
+- [Build a Simple NN from scratch 2](notebooks/NN_from_scratch2.ipynb)
   
 ## HW keys
 - [HW4 key](notebooks/HW4key.ipynb)
