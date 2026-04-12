@@ -7,6 +7,9 @@ This is the Github repository that goes with the course.
 - [best subspace fitting](notebooks/best_subspace_fitting.ipynb)
 - [recommendation system](notebooks/movie_rating.ipynb): may cover later
 
+## Regularization
+- [L1 regularization](notebooks/dim_reduction.ipynb)
+
 ## Neural Network
 - [Build a Simple NN from scratch](notebooks/NN_from_scratch.ipynb)
 - [Build a Simple NN from scratch 2](notebooks/NN_from_scratch2.ipynb)
