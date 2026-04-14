@@ -1,3 +1,5 @@
 NeuralNet.ipynb
 notebooks/HW10key.ipynb
 exclude/
+data/kagglecatsanddogs_5340/
+data/chicken_duck/
