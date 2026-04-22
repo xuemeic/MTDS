@@ -15,8 +15,10 @@ This is the Github repository that goes with the course.
 - [Build a Simple NN from scratch 2](notebooks/NN_from_scratch2.ipynb)
 
 ## Convolution and CNN
+- [convolution](notebooks/image.ipynb)
 
 ## HW keys
 - [HW4 key](notebooks/HW4key.ipynb)
 - [HW6 key](notebooks/HW6key.ipynb)
 - [HW9 key](notebooks/HW9key.ipynb)
+- [HW10 key](notebooks/HW10key.ipynb)
