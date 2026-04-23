@@ -5,7 +5,7 @@ This is the Github repository that goes with the course.
 - [Notebook on SVD](notebooks/SVD.ipynb)
 - [dimension reduction with SVD](notebooks/dim_reduction.ipynb)
 - [best subspace fitting](notebooks/best_subspace_fitting.ipynb)
-- [recommendation system](notebooks/movie_rating.ipynb): may cover later
+- [recommendation system](notebooks/movie_rating.ipynb)
 
 ## Regularization
 - [L1 regularization](notebooks/dim_reduction.ipynb)
@@ -15,7 +15,8 @@ This is the Github repository that goes with the course.
 - [Build a Simple NN from scratch 2](notebooks/NN_from_scratch2.ipynb)
 
 ## Convolution and CNN
-- [convolution](notebooks/image.ipynb)
+- [convolution and image](notebooks/image.ipynb)
+- [CNN](notebooks/cnn.ipynb)
 
 ## HW keys
 - [HW4 key](notebooks/HW4key.ipynb)
